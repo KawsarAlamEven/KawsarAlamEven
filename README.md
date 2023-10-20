@@ -4,7 +4,8 @@
 
 ..
 <h3 align="left">Connect with me:</h3>
-- 📫 kawsaralameven@gmail.com
+[<img align="left" alt="KawsarAlam_Even | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kawsaralameven | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 ..
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawsaralameven&show_icons=true&locale=en&layout=compact" alt="kawsaralameven" /></p>
