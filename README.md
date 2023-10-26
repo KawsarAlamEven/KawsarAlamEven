@@ -4,9 +4,9 @@
 
 
 connect me >>
-
 <a align="Left" href="www.linkedin.com/in/kawsaralameven" target="_blank">Linkedin</a> •
-<a align="Left" href="https://twitter.com/KawsarAlam_Even" target="_blank">Facebook</a> 
+<a align="Left" href="https://twitter.com/KawsarAlam_Even" target="_blank">Facebook</a>
+
 
 
 
